@@ -28,3 +28,6 @@ export default {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+download Vite
+npm create vite@latest
