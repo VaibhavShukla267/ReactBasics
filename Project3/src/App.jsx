@@ -17,6 +17,8 @@ function App() {
   return ( 
 <>
 
+
+
   <h1 className='bg-blue-400 text-black rounded-xl mb-3 p-3'>Tailwind In React</h1>
   {/* /* <Card Username="MyName" someObj={Arr} /> */ }
   <Card Username="MyName" btnName="Click Explore More" />
